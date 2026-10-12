@@ -1,0 +1,46 @@
+# Statistical Computing with R: Student Data Analysis
+
+## About the Project
+This project demonstrates basic statistical computing and student data analysis using R. It covers descriptive statistics, data frame manipulation, conditional statements, loops, and functions.
+
+## Objectives
+- Calculate descriptive statistics.
+- Create and manipulate student data frames.
+- Classify student grades using conditional statements.
+- Apply loops for repetitive calculations.
+- Create functions to summarize data.
+
+## Tools
+- **Programming Language:** R
+- **Environment:** RStudio
+
+## Topics Covered
+1. **Descriptive Statistics** — Mean, median, minimum, maximum, range, variance, and standard deviation.
+2. **Data Frame** — Creating and processing student data.
+3. **Conditional Statements** — Classifying grades and determining pass status.
+4. **Loops** — Performing repeated calculations using `for`.
+5. **Functions** — Creating reusable functions for data summaries.
+
+## Example Dataset
+
+| Name | Study Hours | Score |
+|---|---:|---:|
+| Ana | 4 | 70 |
+| Bima | 6 | 85 |
+| Citra | 3 | 65 |
+| Dodi | 8 | 90 |
+| Eka | 5 | 78 |
+
+## Key Skills
+- Basic R Programming
+- Statistical Data Analysis
+- Data Manipulation
+- Descriptive Statistics
+- Logical Programming
+
+## Project Purpose
+This project serves as a foundation for learning R programming and applying statistical concepts to simple datasets.
+
+---
+**Author:** Oktaviani Eka Putri  
+**Field of Study:** Statistics
